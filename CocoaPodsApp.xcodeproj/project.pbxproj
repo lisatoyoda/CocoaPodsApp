@@ -14,6 +14,7 @@
 		42CCCFA322843CF9000510AC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 42CCCFA122843CF9000510AC /* LaunchScreen.storyboard */; };
 		42CCCFAE22843CF9000510AC /* CocoaPodsAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42CCCFAD22843CF9000510AC /* CocoaPodsAppTests.swift */; };
 		42CCCFB922843CF9000510AC /* CocoaPodsAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42CCCFB822843CF9000510AC /* CocoaPodsAppUITests.swift */; };
+		42CCCFC722843E22000510AC /* 背景.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 42CCCFC622843E22000510AC /* 背景.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		42CCCFB422843CF9000510AC /* CocoaPodsAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CocoaPodsAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		42CCCFB822843CF9000510AC /* CocoaPodsAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CocoaPodsAppUITests.swift; sourceTree = "<group>"; };
 		42CCCFBA22843CF9000510AC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		42CCCFC622843E22000510AC /* 背景.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "背景.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				42CCCF9822843CF6000510AC /* AppDelegate.swift */,
 				42CCCF9A22843CF6000510AC /* ViewController.swift */,
 				42CCCF9C22843CF6000510AC /* Main.storyboard */,
+				42CCCFC622843E22000510AC /* 背景.jpg */,
 				42CCCF9F22843CF9000510AC /* Assets.xcassets */,
 				42CCCFA122843CF9000510AC /* LaunchScreen.storyboard */,
 				42CCCFA422843CF9000510AC /* Info.plist */,
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				42CCCFC722843E22000510AC /* 背景.jpg in Resources */,
 				42CCCFA322843CF9000510AC /* LaunchScreen.storyboard in Resources */,
 				42CCCFA022843CF9000510AC /* Assets.xcassets in Resources */,
 				42CCCF9E22843CF6000510AC /* Main.storyboard in Resources */,
